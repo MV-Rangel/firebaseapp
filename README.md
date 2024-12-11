@@ -1,2 +1,0 @@
-# firebaseapp
-Aprendendo Firebase
